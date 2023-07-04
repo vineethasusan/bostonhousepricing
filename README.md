@@ -1,6 +1,6 @@
-# bostonhousepricing
+### Boston House Pricing Prediction
 
-# software and toold requirements
+### Software and Tools Requirements
 
 1. [Github Account](https://github.com)
 2. [HerokuAccount](https://heroku.com)
@@ -10,8 +10,9 @@
 Create a new environment for the project (mac)
 
 ...
-python -m venv envname
-source envname/bin/activate
+
+conda create -p venv python==3.8 -y
+conda activate venv/
 
 ...
 
