@@ -1,5 +1,4 @@
-### Boston House Pricing Prediction
-## Predicting Boston House Prices
+### Predicting Boston House Prices
 
 ## Problem Statement
 ## Project Description 
